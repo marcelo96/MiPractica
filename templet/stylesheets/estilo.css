@@ -1,0 +1,78 @@
+				body{
+					background-color: grey;
+				}
+				.menu ul {
+					list-style-type: none;
+					margin: 0px;
+					padding: 0px;
+					border-top-color: #CCA;
+					border-right-color: #CCA;
+					border-left-color: #CCA;
+				}
+
+				.men {
+					display: inline;
+				}
+
+				.menu a {
+					font-family: Arial, Helvetica, sans-serif;
+					color: #000;
+					text-decoration: none;
+					font-size: 0.9em;
+					display: block;
+					float: left;
+					padding: 6px;
+					border-bottom-width: 1px;
+					border-bottom-style: solid;
+					border-bottom-color: #CCC;
+					background-color: #EAEAEA;
+				}
+				.menu a:hover{
+					color: #FFE;
+					background-color: #66F;
+					border-right-width: 5px;
+					border-right-style: solid;
+					border-right-color: #36F;
+				}
+
+				.menu li {
+					clear: both;
+				}
+
+				section{
+					background-color: #AAA;
+				}
+				
+				footer{
+					text-align: center;
+					color: yellow;
+				}
+
+				.ima-gastro{
+					width: 18%;
+				}
+
+				p{
+					color: blue;
+				}
+
+				h1, h2{
+					color: purple;
+				}
+
+				.lista{
+					color: green;
+				}
+
+				.lista2{
+					color: #77F;
+				}
+
+				#mas-info{
+					color: #F44;
+				}
+
+				#cuetzalan{
+					background-color: #444;
+					text-align: center;
+				}
