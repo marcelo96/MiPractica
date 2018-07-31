@@ -22,7 +22,7 @@
             <ul>
                 <li class="men"><a href="<?php $this->url_inicio(); ?>">Inicio</a></li>
                 <li class="men"><a href="<?php $this->url_inicio(); ?>formulario">Lugares que visitar</a></li>
-                <!--<li class="men"><a href="http://local.cuetzalan.marcelo/tienda/">Tienda</a></li>-->
+                <li class="men"><a href="<?php $this->url_inicio(); ?>tienda">Tienda</a></li>
             </ul>
         </nav>
         <br><br><br>
